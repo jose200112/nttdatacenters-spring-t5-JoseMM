@@ -1,0 +1,4 @@
+com.nttdata.spring
+com.nttdata.spring.controller
+com.nttdata.spring.repository
+com.nttdata.spring.services
